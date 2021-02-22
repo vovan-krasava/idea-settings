@@ -58,6 +58,10 @@
           <option name="url" value="https://git.ringcentral.com/AUT.Projects/Spartan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.ringcentral.com/pjac/pjac.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\idea-workspace" />
