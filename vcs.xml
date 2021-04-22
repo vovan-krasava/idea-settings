@@ -82,6 +82,10 @@
           <option name="url" value="https://git.ringcentral.com/AUT.Tools/EinsteinKeywordsAPI.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.ringcentral.com/AUT.Tools/EinsteinClientApi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\idea-workspace" />
