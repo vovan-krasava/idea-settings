@@ -1,0 +1,195 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="Git.Settings">
+        <option name="UPDATE_TYPE" value="REBASE" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="C:/idea-workspace/Development" value="4345338572005" />
+            <entry key="C:/idea-workspace/Development_refactrorE2E" value="4368470505680" />
+            <entry key="C:/idea-workspace/GIT_AccountCollector" value="2944610244971" />
+            <entry key="C:/idea-workspace/GIT_Account_Pool" value="2953768356881" />
+            <entry key="C:/idea-workspace/GIT_Config" value="2945138057484" />
+            <entry key="C:/idea-workspace/GIT_Core_develop" value="22279080540039" />
+            <entry key="C:/idea-workspace/GIT_DXR" value="2945137036833" />
+            <entry key="C:/idea-workspace/GIT_Dashboard" value="2945138971389" />
+            <entry key="C:/idea-workspace/GIT_Develop" value="1513194403638" />
+            <entry key="C:/idea-workspace/GIT_Develop_second" value="1541079679189" />
+            <entry key="C:/idea-workspace/GIT_Environment_master" value="3023740293873" />
+            <entry key="C:/idea-workspace/GIT_RMI" value="2945295607588" />
+            <entry key="C:/idea-workspace/GIT_WSDL" value="2945137800090" />
+            <entry key="C:/idea-workspace/GetPlatformVersionPlugin" value="2970885699491" />
+            <entry key="C:/idea-workspace/Git_Develop" value="4403154221609" />
+            <entry key="C:/idea-workspace/Gradle_Plugin" value="1485419700532" />
+            <entry key="C:/idea-workspace/RMI_temp" value="2963272188240" />
+            <entry key="C:/idea-workspace/release-8-0" value="4355307266389" />
+            <entry key="D:/merge/CollectorThread" value="2895810304391" />
+            <entry key="D:/merge/Development_ThreadGroup" value="4364775315970" />
+            <entry key="D:/merge/GIT_Develop" value="6013588930010" />
+            <entry key="D:/merge/GW_branch_7_5_RLZ" value="4350805512128" />
+            <entry key="D:/merge/PhoneFormatter" value="3047939537946" />
+            <entry key="D:/merge/SpartanSP" value="4297691086077" />
+            <entry key="D:/merge/Spartan_Swarm_class" value="3015625496789" />
+            <entry key="D:/merge/account-generator" value="16797716009022" />
+            <entry key="D:/merge/ags-xmn-scenarios/scenarios" value="3062264573846" />
+            <entry key="D:/merge/modano_dev" value="4343039633694" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="C:/idea-workspace/Dashboard" value="PREVIEW" />
+            <entry key="C:/idea-workspace/EinsteinClientApi" value="PREVIEW" />
+            <entry key="C:/idea-workspace/GIT_AccountCollector" value="PREVIEW" />
+            <entry key="C:/idea-workspace/Java14_gradle" value="PREVIEW" />
+            <entry key="C:/idea-workspace/SpartanDriver_clean" value="PREVIEW" />
+            <entry key="C:/idea-workspace/SwarmAPI" value="PREVIEW" />
+            <entry key="C:/idea-workspace/refill_extract_Json" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="JenkinsBrowserPanel">
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </component>
+      <component name="MarkdownProjectSettings">
+        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true">
+          <PanelProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+          </PanelProvider>
+        </PreviewSettings>
+        <ParserSettings>
+          <PegdownExtensions>
+            <option name="ABBREVIATIONS" value="false" />
+            <option name="ANCHORLINKS" value="true" />
+            <option name="ATXHEADERSPACE" value="true" />
+            <option name="AUTOLINKS" value="true" />
+            <option name="DEFINITIONS" value="false" />
+            <option name="FENCED_CODE_BLOCKS" value="true" />
+            <option name="FOOTNOTES" value="false" />
+            <option name="HARDWRAPS" value="false" />
+            <option name="INSERTED" value="false" />
+            <option name="QUOTES" value="false" />
+            <option name="RELAXEDHRULES" value="true" />
+            <option name="SMARTS" value="false" />
+            <option name="STRIKETHROUGH" value="true" />
+            <option name="SUBSCRIPT" value="false" />
+            <option name="SUPERSCRIPT" value="false" />
+            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+            <option name="SUPPRESS_INLINE_HTML" value="false" />
+            <option name="TABLES" value="true" />
+            <option name="TASKLISTITEMS" value="true" />
+            <option name="TOC" value="false" />
+            <option name="WIKILINKS" value="true" />
+          </PegdownExtensions>
+          <ParserOptions>
+            <option name="COMMONMARK_LISTS" value="false" />
+            <option name="DUMMY" value="false" />
+            <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="FLEXMARK_FRONT_MATTER" value="false" />
+            <option name="GFM_TABLE_RENDERING" value="true" />
+            <option name="GITBOOK_URL_ENCODING" value="false" />
+            <option name="GITHUB_EMOJI_URL" value="false" />
+            <option name="GITHUB_LISTS" value="true" />
+            <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+          </ParserOptions>
+        </ParserSettings>
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true">
+          <GeneratorProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+          </GeneratorProvider>
+          <headerTop />
+          <headerBottom />
+          <bodyTop />
+          <bodyBottom />
+        </HtmlSettings>
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssTextEnabled="false" isDynamicPageWidth="true">
+          <StylesheetProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+          </StylesheetProvider>
+          <ScriptProviders />
+          <cssText />
+        </CssSettings>
+        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" />
+        <LinkMapSettings>
+          <textMaps />
+        </LinkMapSettings>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+        <option name="showVisibilityIcons" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file enabled="true" id="idea.log" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8 (1)</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

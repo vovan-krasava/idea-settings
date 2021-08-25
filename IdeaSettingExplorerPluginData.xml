@@ -1,0 +1,1879 @@
+<application>
+  <component name="carry.common.data.AppPersistence">
+    <version>0.1.0</version>
+    <description-popup-location name="descriptionPopupLocation" value="1731, 464" />
+    <configMap>
+      <entry configId="Appearance &amp; Behavior@@@System Settings">
+        <Detail tags="[startup, shutdown]" />
+      </entry>
+    </configMap>
+    <contentMap>
+      <entry configId="Appearance &amp; Behavior@@@Appearance">
+        <contents>
+          <Point name="Theme" />
+          <Point name="Use custom font" />
+          <Point name="Size" />
+          <Bag name="Accessibility">
+            <Point name="Support screen readers" />
+            <Point name="Use contrast scrollbars" />
+            <Point name="Adjust colors for red-green vision deficiency" />
+          </Bag>
+          <Bag name="UI Options">
+            <Point name="Show tree indent guides" />
+            <Point name="Smooth scrolling" />
+            <Point name="Use smaller indents in trees" />
+            <Point name="Drag-and-drop with Alt pressed only" />
+            <Point name="Enable mnemonics in menu" />
+            <Point name="Always show full path in window header" />
+            <Point name="Enable mnemonics in controls" />
+            <Point name="Display icons in menu items" />
+            <Point name="Background Image" />
+          </Bag>
+          <Bag name="Antialiasing">
+            <Point name="IDE" />
+            <Point name="Editor" />
+          </Bag>
+          <Bag name="Tool Windows">
+            <Point name="Show tool window bars" />
+            <Point name="Show tool window numbers" />
+            <Point name="Side-by-side layout on the left" />
+            <Point name="Side-by-side layout on the right" />
+            <Point name="Widescreen tool window layout" />
+          </Bag>
+          <Bag name="Presentation Mode">
+            <Point name="Font size" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Appearance &amp; Behavior@@@File Colors">
+        <contents>
+          <Point name="Enable file colors" />
+          <Point name="Use in editor tabs" />
+          <Point name="Use in project view" />
+          <Point name="Manage scopes" />
+        </contents>
+      </entry>
+      <entry configId="Appearance &amp; Behavior@@@Notifications">
+        <contents>
+          <Point name="Display balloon notifications" />
+          <Point name="Enable system notifications" />
+          <Point name="Popup type" />
+          <Point name="Log" />
+          <Point name="Play sound" />
+          <Point name="Read aloud" />
+        </contents>
+      </entry>
+      <entry configId="Appearance &amp; Behavior@@@System Settings">
+        <contents>
+          <Point name="Confirm before exiting the IDE" />
+          <Point name="When closing a tool window with a running process" />
+          <Bag name="Project">
+            <Point name="Reopen projects on startup" />
+            <Point name="Open project in" />
+            <Point name="Default project directory" />
+          </Bag>
+          <Bag name="Autosave">
+            <Point name="Save files if the IDE is idle for" />
+            <Point name="Save files when switching to a different application" />
+            <Point name="Back up files before saving" />
+            <Point name="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Appearance &amp; Behavior@@@System Settings@@@Data Sharing">
+        <contents>
+          <Point name="Send usage statistics" />
+        </contents>
+      </entry>
+      <entry configId="Appearance &amp; Behavior@@@System Settings@@@Date Formats">
+        <contents>
+          <Point name="override system date and time format" />
+          <Point name="Use pretty formatting" />
+        </contents>
+      </entry>
+      <entry configId="Appearance &amp; Behavior@@@System Settings@@@Passwords">
+        <contents>
+          <Point name="Save passwords" />
+        </contents>
+      </entry>
+      <entry configId="Appearance &amp; Behavior@@@System Settings@@@Updates">
+        <contents>
+          <Point name="Automatically check updates for" />
+          <Point name="Check now" />
+          <Point name="View/edit ignored updates" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Android@@@Deployment">
+        <contents>
+          <Point name="Automatically perform &quot;Run&quot; when Apply Changes fails" />
+          <Point name="Automatically perform &quot;Run&quot; when Apply Code Changes fails" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Arquillian Containers">
+        <contents>
+          <Point name="Name" />
+          <Point name="Arquillian container" />
+          <Point name="Dependencies" />
+          <Point name="VM options" />
+          <Point name="Environment variables" />
+          <Bag name="Run">
+            <Point name="Arquillian.xml container qualifier" />
+          </Bag>
+          <Bag name="Debug">
+            <Point name="Arquillian.xml container qualifier" />
+            <Point name="Remote Debug" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Build Tools">
+        <contents>
+          <Point name="Reload project after changes in the build scripts" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Build Tools@@@Gant">
+        <contents>
+          <Point name="Gant home" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Build Tools@@@Gradle">
+        <contents>
+          <Bag name="General Settings">
+            <Point name="Gradle user home" />
+            <Point name="Generate *.iml files for modules imported from Gradle" />
+          </Bag>
+          <Bag name="Gradle projects">
+            <Point name="Download external annotations for dependencies" />
+          </Bag>
+          <Bag name="Build and run">
+            <Point name="Build and run using" />
+            <Point name="Run tests using" />
+          </Bag>
+          <Bag name="Gradle">
+            <Point name="Use Gradle from" />
+            <Point name="Gradle JVM" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Build Tools@@@Maven">
+        <contents>
+          <Point name="Work offline" />
+          <Point name="Use plugin registry" />
+          <Point name="Execute goals recursively" />
+          <Point name="Print exception stack traces" />
+          <Point name="Always update snapshots" />
+          <Point name="Output level" />
+          <Point name="Checksum policy" />
+          <Point name="Multiproject build fail policy" />
+          <Point name="Thread count" />
+          <Point name="Maven home directory" />
+          <Point name="User settings file" />
+          <Point name="Local repository" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Build Tools@@@Maven@@@Ignored Files">
+        <contents>
+          <Point name="Path patterns" />
+          <Point name="Ignored Files" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Build Tools@@@Maven@@@Importing">
+        <contents>
+          <Point name="Keep project files in" />
+          <Point name="Store generated project files externally" />
+          <Point name="Detect compiler automatically" />
+          <Point name="Create IntelliJ IDEA modules for aggregator projects (with 'pom' packaging)" />
+          <Point name="Create module groups for multi-module Maven projects" />
+          <Point name="Keep source and test folders on project reload" />
+          <Point name="Exclude build directory (%PROJECT_ROOT%/target)" />
+          <Point name="Use Maven output directories" />
+          <Point name="Generated sources folders" />
+          <Point name="Phase to be used for folders update" />
+          <Point name="Automatically download" />
+          <Point name="Dependency types" />
+          <Point name="VM options for importer" />
+          <Point name="JDK for importer" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Build Tools@@@Maven@@@Repositories">
+        <contents>
+          <Point name="Indexed Maven Repositories" />
+          <Point name="Update" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Build Tools@@@Maven@@@Runner">
+        <contents>
+          <Point name="Delegate IDE build/run actions to Maven" />
+          <Point name="Run in background" />
+          <Point name="VM Options" />
+          <Point name="JRE" />
+          <Point name="Environment variables" />
+          <Point name="Properties" />
+          <Point name="Skip tests" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Build Tools@@@Maven@@@Running Tests">
+        <contents>
+          <Point name="argLine" />
+          <Point name="systemPropertyVariables" />
+          <Point name="environmentVariables" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Build Tools@@@sbt">
+        <contents>
+          <Bag name="General settings">
+            <Point name="JVM" />
+            <Point name="Launcher (sbt-launch.jar)" />
+          </Bag>
+          <Bag name="sbt projects">
+            <Point name="Download" />
+            <Point name="Use sbt shell" />
+            <Point name="Allow overriding sbt version" />
+            <Point name="Enable debugging for sbt shell" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Clouds">
+        <contents>
+          <Point name="CloudFoundry" />
+          <Point name="Google App Engine" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Compiler">
+        <contents>
+          <Point name="Resource patterns" />
+          <Point name="Clear output directory on rebuild" />
+          <Point name="Add runtime assertions for notnull-annotated methods and parameters" />
+          <Point name="Configure annotations" />
+          <Point name="Automatically show first error in editor" />
+          <Point name="Display notification on build completion" />
+          <Point name="Build project automatically" />
+          <Point name="Compile independent modules in parallel" />
+          <Point name="Rebuild module on dependency change" />
+          <Point name="Build process heap size (Mbytes)" />
+          <Point name="Shared build process VM options" />
+          <Point name="User-local build process VM options (overrides Shared options)" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Compiler@@@Android Compilers">
+        <contents>
+          <Bag name="DEX">
+            <Point name="Maximum heap size (MB)" />
+            <Point name="Additional VM options" />
+            <Point name="Optimize" />
+            <Point name="Force jumbo mode" />
+            <Point name="Add &quot;--core-library&quot; flag" />
+          </Bag>
+          <Bag name="ProGuard">
+            <Point name="VM options" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Compiler@@@Groovy Compiler">
+        <contents>
+          <Point name="Path to configscript" />
+          <Point name="Invoke dynamic support" />
+          <Point name="Exclude from stub generation" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Compiler@@@Java Compiler">
+        <contents>
+          <Point name="User Compiler" />
+          <Point name="Use '--release' option for cross-compilation (Java 9 and later)" />
+          <Point name="Project bytecode version" />
+          <Point name="Per-module bytecode version" />
+          <Bag name="Javac Options">
+            <Point name="Use Compiler from module target JDK when possible" />
+            <Point name="Generate debugging info" />
+            <Point name="Report use of deprecated features" />
+            <Point name="Generate no warnings" />
+            <Point name="Additional command line parameters" />
+          </Bag>
+          <Bag name="Eclipse Options">
+            <Point name="Generate debugging info" />
+            <Point name="Report use of deprecated features" />
+            <Point name="Generate no warnings" />
+            <Point name="Proceed on errors" />
+            <Point name="Path to ECJ batch compiler tool (leave empty to use bundled)" />
+            <Point name="Additional command line parameters" />
+          </Bag>
+          <Bag name="Ajc options">
+            <Point name="Path to aspectjtools.jar" />
+            <Point name="Test" />
+            <Point name="Command line parameters" />
+            <Point name="Generate debug info" />
+            <Point name="Delegate to Javac" />
+            <Point name="Enable annotation processing options" />
+          </Bag>
+          <Bag name="Groovy-Eclipse options">
+            <Point name="Path to groovy-eclipse-batch jar" />
+            <Point name="Additional command line parameters" />
+            <Point name="Generate debug info" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Compiler@@@Kotlin Compiler">
+        <contents>
+          <Point name="Report compiler warnings" />
+          <Point name="Language version" />
+          <Point name="API version" />
+          <Point name="Additional command line parameters" />
+          <Point name="Keep compiler process alive between invocations" />
+          <Bag name="Kotlin to JVM">
+            <Point name="Enable incremental compilation" />
+            <Point name="Target JVM version" />
+          </Bag>
+          <Bag name="Kotlin to JavaScript">
+            <Point name="Enable incremental compilation" />
+            <Point name="Generate source maps" />
+            <Point name="Add prefix to paths in source map" />
+            <Point name="Embed source code into source map" />
+            <Point name="File to prepend to generated code" />
+            <Point name="File to append to generated code" />
+            <Point name="Copy library runtime files" />
+            <Point name="Destination directory" />
+            <Point name="Module kind" />
+          </Bag>
+          <Bag name="Kotlin Script">
+            <Point name="Script template classes" />
+            <Point name="Script templates classpath" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Compiler@@@RMI Compiler">
+        <contents>
+          <Point name="Enable RMI stubs generation" />
+          <Point name="Generate IIOP stubs" />
+          <Point name="Generate debugging info" />
+          <Point name="Generate no warnings" />
+          <Point name="Additional command line parameters" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Compiler@@@Validation">
+        <contents>
+          <Point name="Validate on build" />
+          <Point name="Validators" />
+          <Point name="Exclude from validation" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Console">
+        <contents>
+          <Bag name="General Settings">
+            <Point name="Always show debug console" />
+            <Point name="Use IPython if available" />
+            <Point name="Show console variables by default" />
+            <Point name="Use existing console for &quot;Run with Python Console&quot;" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Console@@@Django Console">
+        <contents>
+          <Point name="Starting script" />
+          <Bag name="Environment">
+            <Point name="Project" />
+            <Point name="Environment variables" />
+            <Point name="Python Interpreter" />
+            <Point name="Interpreter options" />
+            <Point name="Working directory" />
+            <Point name="Configure interpreters" />
+            <Point name="Add content roots to PYTHONPATH" />
+            <Point name="Add source roots to PYTHONPATH" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Console@@@Python Console">
+        <contents>
+          <Point name="Starting script" />
+          <Bag name="Environment">
+            <Point name="Project" />
+            <Point name="Environment variables" />
+            <Point name="Python Interpreter" />
+            <Point name="Interpreter options" />
+            <Point name="Working directory" />
+            <Point name="Configure interpreters" />
+            <Point name="Add content roots to PYTHONPATH" />
+            <Point name="Add source roots to PYTHONPATH" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Coverage">
+        <contents>
+          <Bag name="When new coverage is gethered">
+            <Point name="Show options before applying coverage to the editor" />
+            <Point name="Do not apply collected coverage" />
+            <Point name="Replace active suites with the new one" />
+            <Point name="Add to active suites" />
+            <Point name="Activate Coverage View" />
+          </Bag>
+          <Bag name="Java coverage">
+            <Point name="Ignore implicitly declared default constructors" />
+            <Point name="Ignore empty private constructors of utility classes" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Debugger">
+        <contents>
+          <Point name="Show debug window on breakpoint" />
+          <Point name="Focus application on breakpoint" />
+          <Point name="Hide debug window on process termination" />
+          <Point name="Scroll execution point to center" />
+          <Point name="Click line number to perform run to cursor" />
+          <Point name="Remove breakpoint" />
+          <Bag name="Java">
+            <Point name="Transport" />
+            <Point name="Force Classic VM for JDK 1.3x and earlier" />
+            <Point name="Disable JIT" />
+            <Point name="Show alternative source switcher" />
+            <Point name="Kill the debug process immediately" />
+            <Point name="Attach memory agent" />
+          </Bag>
+          <Bag name="Built-in server">
+            <Point name="Port" />
+            <Point name="Can accept external connections" />
+            <Point name="Allow unsigned requests" />
+          </Bag>
+          <Bag name="Logcat output">
+            <Point name="Show application logcat messages in Run Console" />
+            <Point name="Show application logcat messages in Debug Console" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Debugger@@@Async Stack Traces">
+        <contents>
+          <Point name="Instrumenting agent (requires debugger restart)" />
+          <Point name="Capture local variables (may greatly slow down the execution)" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Debugger@@@Data Views">
+        <contents>
+          <Point name="Sort values alphabetically" />
+          <Point name="Enable auto expressions in Variables view" />
+          <Point name="Show values inline" />
+          <Point name="Show value tooltip." />
+          <Point name="Value tooltip delay (ms)" />
+          <Point name="Show value tooltip on code selection" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Debugger@@@Data Views@@@Java">
+        <contents>
+          <Point name="Autoscroll to new local variables" />
+          <Point name="Predict condition values and exceptions based on data flow analysis" />
+          <Bag name="Show">
+            <Point name="Show type for strings" />
+            <Point name="Show hax value for primitives" />
+            <Point name="Hide null elements in arrays and collections" />
+            <Point name="Auto populate Throwable object's stack trace" />
+            <Point name="Enable alternative view for Collections classes" />
+            <Point name="Enable 'toString()' object view" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Debugger@@@Data Views@@@Java Type Renderers">
+        <contents>
+          <Point name="Renderer name" />
+          <Point name="Apply renderer to objects of type (fully-qualified name)" />
+          <Point name="When rendering a node" />
+          <Point name="When expanding a node" />
+          <Point name="Append default children" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Debugger@@@Data Views@@@JavaScript">
+        <contents>
+          <Point name="Show the following properties for an object node" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Debugger@@@Data Views@@@Kotlin">
+        <contents>
+          <Point name="Calculate values of delegated properties (may affect program execution)" />
+          <Point name="Disable coroutine agent" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Debugger@@@HotSwap">
+        <contents>
+          <Bag name="Java">
+            <Point name="Build project before reloading classes" />
+            <Point name="Enable 'JVM will hang' warning" />
+            <Point name="Reload classes in background" />
+            <Point name="Reload classes after compilation" />
+          </Bag>
+          <Bag name="Groovy">
+            <Point name="Enable hot-swap agent for Groovy code" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Debugger@@@Live Edit">
+        <contents>
+          <Point name="Update Node.js application on changes in" />
+          <Point name="Update application in Chrome on changes in" />
+          <Point name="Track changes in files compiled to JavaScript, HTML or CSS" />
+          <Point name="Highlight current element in browser on caret change" />
+          <Point name="Restart if hotswap fails" />
+          <Point name="Use JetBrains IDE Support extension for debugging and Live Edit" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Debugger@@@Stepping">
+        <contents>
+          <Bag name="Java">
+            <Point name="Always do smart step into" />
+            <Point name="Skip synthetic methods" />
+            <Point name="Skip constructors" />
+            <Point name="Skip class loaders" />
+            <Point name="Skip simple getters" />
+            <Point name="Do not step into the classes" />
+            <Point name="Evaluate finally blocks on pop frame and early return" />
+            <Point name="Resume only the current thread" />
+          </Bag>
+          <Bag name="Groovy">
+            <Point name="Do not step into specific Groovy classes" />
+          </Bag>
+          <Bag name="Oracle">
+            <Point name="Stepping mode" />
+            <Point name="Pause at begin" />
+          </Bag>
+          <Bag name="JavaScript">
+            <Point name="Do not step into library scripts" />
+            <Point name="Do not step into scripts" />
+          </Bag>
+          <Bag name="Kotlin">
+            <Point name="Do not step into Kotlin runtime library implementation classes" />
+          </Bag>
+          <Bag name="Python">
+            <Point name="Always do smart step into" />
+            <Point name="Do not step into library scripts" />
+            <Point name="Do not step into scripts" />
+          </Bag>
+          <Bag name="Ruby">
+            <Point name="Ignore non-project sources" />
+            <Point name="Always perform smart step into" />
+            <Point name="Treat blocks as method code" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Deployment@@@Options">
+        <contents>
+          <Point name="Exclude items by name" />
+          <Point name="Operations logging" />
+          <Point name="Stop operation on the first error" />
+          <Point name="Overwrite up-to-date files" />
+          <Point name="Preserve files timestamps" />
+          <Point name="Delete target items when source ones do not exist (when transferring form Project view or Remote Host view)" />
+          <Point name="Create empty directories" />
+          <Point name="Prompt when overwriting or deleting local items" />
+          <Point name="Upload changed files automatically to the default server" />
+          <Point name="Skip external changes" />
+          <Point name="Delete remote files when local are deleted" />
+          <Point name="Override default permissions on files" />
+          <Point name="Override default permissions on folders" />
+          <Point name="Warn when uploading over newer file" />
+          <Point name="Notify of remote changes" />
+          <Point name="Show warning dialog on moving on Remote Host" />
+          <Bag name="SFTP Advanced Options (IDE level setting)">
+            <Point name="Add new host key to known_hosts" />
+            <Point name="Hash hosts in known_hosts file" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Docker">
+        <contents>
+          <Point name="Name" />
+          <Point name="Connect to Docker daemon with" />
+          <Point name="Path mappings" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Docker@@@Tools">
+        <contents>
+          <Point name="Docker executable" />
+          <Point name="Docker Machine executable" />
+          <Point name="Docker Compose executable" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Gradle-Android Compiler">
+        <contents>
+          <Point name="Compile independent modules in parallel (may require larger heap size)" />
+          <Point name="Command-line Options" />
+          <Point name="Make project automatically (only works while not running/debugging)" />
+          <Point name="Sync project with Gradle before building, if needed" />
+        </contents>
+      </entry>
+      <entry configId="Build, Execution, Deployment@@@Python Debugger">
+        <contents>
+          <Point name="Attach to subprocess automatically while debugging" />
+          <Point name="Collect run-time types information for code insight" />
+          <Point name="Clear caches" />
+          <Point name="Gevent compatible" />
+          <Point name="PyQt compatible" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Android Layout Editor">
+        <contents>
+          <Point name="Show lint icons on design surface" />
+          <Bag name="Default Editor Mode">
+            <Point name="Drawables" />
+            <Point name="Other Resources (e.g. Layout, Menu, Navigation)" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Code Editing">
+        <contents>
+          <Bag name="Highlight on Caret Movement">
+            <Point name="Matched brace" />
+            <Point name="Current scope" />
+            <Point name="Usages of element at caret" />
+          </Bag>
+          <Bag name="Refactorings" tags="[refactor]">
+            <Point name="Specify refactoring options" />
+            <Point name="Preselect current symbol name for Rename refactoring" />
+            <Point name="Show inline dialog for local variables" />
+          </Bag>
+          <Bag name="Error Highlighting">
+            <Point name="Error stripe mark min height" />
+            <Point name="Autoreparse delay" />
+            <Point name="The 'Next Error' action goes through" />
+            <Point name="Suppress with @SuppressWarnings" />
+          </Bag>
+          <Bag name="Quick Documentation">
+            <Point name="Show quick Documentation on mouse move" />
+          </Bag>
+          <Bag name="Editor Tooltips">
+            <Point name="Tooltips delay" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Code Style">
+        <contents>
+          <Point name="Scheme" />
+          <Bag name="General">
+            <Point name="Line separator" />
+            <Point name="Hard wrap at" />
+            <Point name="Wrap on typing" />
+            <Point name="Visual guides" />
+            <Point name="Detect and use existing file indent for editing" />
+            <Point name="Enable EditorConfig support" />
+          </Bag>
+          <Bag name="Formatter Control">
+            <Point name="Enable Formatter markers in comments" />
+            <Point name="Formatter off" />
+            <Point name="Formatter on" />
+            <Point name="Enable regular expressions in formatter markers" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Color Scheme">
+        <contents>
+          <Point name="Scheme" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Color Scheme@@@Color Scheme Font">
+        <contents>
+          <Point name="Use color scheme font instead of the default" />
+          <Point name="Font" />
+          <Point name="Show only monospaced fonts" />
+          <Point name="Size" />
+          <Point name="Line spacing" />
+          <Point name="Fallback font" />
+          <Point name="Enable font ligatures" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Color Scheme@@@Console Font">
+        <contents>
+          <Point name="Use console font instead of the default" />
+          <Point name="Font" />
+          <Point name="Show only monospaced fonts" />
+          <Point name="Size" />
+          <Point name="Line spacing" />
+          <Point name="Fallback font" />
+          <Point name="Enable font ligatures" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Copyright">
+        <contents>
+          <Point name="Default project copyright" />
+          <Point name="Scope" />
+          <Point name="Copyright" />
+          <Point name="Select Scopes to add new scopes or modify existing ones" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Copyright@@@Copyright Profiles">
+        <contents>
+          <Point name="Name" />
+          <Point name="Copyright text (may contain Velocity templates)" />
+          <Point name="Validate" />
+          <Point name="Regexp to detect copyright in comments" />
+          <Point name="Allow replacing copyright if old copyright matches" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Copyright@@@Formatting">
+        <contents>
+          <Bag name="Comment Type">
+            <Point name="Use block comment" />
+            <Point name="Prefix each line" />
+            <Point name="Use line comment" />
+          </Bag>
+          <Bag name="Relative Location">
+            <Point name="Before other comments" />
+            <Point name="After other comments" />
+          </Bag>
+          <Bag name="Borders">
+            <Point name="Separator before" />
+            <Point name="Separator after" />
+            <Point name="Separator" />
+            <Point name="Box" />
+            <Point name="Add blank line after" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Emmet">
+        <contents>
+          <Point name="Expand abbreviation with" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Emmet@@@CSS">
+        <contents>
+          <Point name="Enable CSS Emmet" />
+          <Point name="Enable fuzzy search among CSS abbreviations" />
+          <Point name="Enable expansion of unknown properties ('unknown' to 'unknown:;')" />
+          <Point name="Auto insert css vendor prefixes" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Emmet@@@HTML">
+        <contents>
+          <Point name="Enable XML/HTML Emmet" />
+          <Point name="Enable abbreviation preview" />
+          <Point name="Enable automatic URL recognition while wrapping text with &lt;a&gt; tag" />
+          <Point name="Add edit point at the end of template" />
+          <Bag name="BEM">
+            <Point name="Class name's element separator" />
+            <Point name="Class name's modifier separator" />
+            <Point name="Short element prefix" />
+          </Bag>
+          <Bag name="Filters enabled by default">
+            <Point name="XSL tuning" />
+            <Point name="Comment tags" />
+            <Point name="Escape" />
+            <Point name="Single line" />
+            <Point name="BEM" />
+            <Point name="Trim line markers" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Emmet@@@JSX">
+        <contents>
+          <Point name="Enable JSX Emmet" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@File Encodings">
+        <contents>
+          <Point name="Global Encoding" />
+          <Point name="Project Encoding" />
+          <Point name="Path" />
+          <Point name="Encoding" />
+          <Bag name="Properties Files (*.properties)">
+            <Point name="Default encoding for properties files" />
+            <Point name="Transparent native-to-ascii conversion" />
+          </Bag>
+          <Bag name="BOM for new UTF-8 files">
+            <Point name="Create UTF-8 files" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@File Types">
+        <contents>
+          <Point name="Recognized File Types" />
+          <Point name="File Name Patterns" />
+          <Point name="HashBang Patterns" />
+          <Point name="Ignore Files and Folders" />
+          <Point name="Open files in the LightEdit mode" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@File and Code Templates">
+        <contents>
+          <Point name="Scheme" />
+          <Point name="Files" />
+          <Point name="Includes" />
+          <Point name="Code" />
+          <Point name="Other" />
+          <Point name="Reformat according to style" />
+          <Point name="Enable Live Templates" />
+          <Point name="Description" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Font">
+        <contents>
+          <Point name="Font" />
+          <Point name="Show only monospaced fonts" />
+          <Point name="Size" />
+          <Point name="Line spacing" />
+          <Point name="Fallback font" />
+          <Point name="Enable font ligatures" />
+          <Point name="Restore Defaults" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@GUI Designer">
+        <contents>
+          <Point name="Generate GUI into" />
+          <Point name="Automatically copy form runtime classes to the output directory" />
+          <Point name="Default layout manager" />
+          <Point name="Default accessibility for UI-bound fields" />
+          <Point name="Resize column and row headers with mouse" />
+          <Point name="Allow changing locale at runtime (requires 2020.1)" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General">
+        <contents>
+          <Bag name="Mouse Control">
+            <Point name="Change font size with Ctrl+Mouse Wheel" />
+            <Point name="Move code fragments with drag-and-drop" />
+          </Bag>
+          <Bag name="Soft Wraps">
+            <Point name="Soft-wrap these files" />
+            <Point name="Use the original line's indent for wrapped fragments" />
+            <Point name="Add additional indent" />
+            <Point name="Only show soft-wrap indicators for the current line" />
+          </Bag>
+          <Bag name="Virtual Space">
+            <Point name="Allow caret placement" />
+            <Point name="Show virtual space at the bottom of the file" />
+          </Bag>
+          <Bag name="Caret Movement">
+            <Point name="When moving by words" />
+            <Point name="Upon line break" />
+          </Bag>
+          <Bag name="Scrolling">
+            <Point name="Enable smooth scrolling" />
+            <Point name="Caret behavior" />
+          </Bag>
+          <Bag name="Limits">
+            <Point name="Recent files limit" />
+            <Point name="Recent locations limit" />
+          </Bag>
+          <Bag name="Rich-Text Copy">
+            <Point name="Copy (Ctrl+C) as rich text" />
+            <Point name="Color scheme for copied fragment" />
+          </Bag>
+          <Bag name="Save Files">
+            <Point name="Strip trailing spaces on Save for" />
+            <Point name="Delete trailing spaces on caret line" />
+            <Point name="Ensure an empty line at the end of a file on Save" />
+          </Bag>
+          <Bag name="Gutter">
+            <Point name="Highlight modified lines in the gutter" />
+            <Point name="Highlight modified lines in error stripe on the scrollbar" />
+            <Point name="Highlight lines with whitespace-only modifications with a different color" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Appearance">
+        <contents>
+          <Point name="Caret blinking (ms)" />
+          <Point name="Use block caret" />
+          <Point name="Show hard wrap and visual guides (configured in Code Style options)" />
+          <Point name="Show line numbers" />
+          <Point name="Show method separators" />
+          <Point name="Show whitespaces" />
+          <Point name="Show indent guides" />
+          <Point name="Highlight only current declaration" />
+          <Point name="Show intention bulb" />
+          <Point name="Show code lens on scrollbar hover" />
+          <Point name="Render documentation comments" />
+          <Point name="Enable HTML/XML tag tree highlighting" />
+          <Point name="Fast mouse scrolling" />
+          <Point name="Show CSS color preview as background" />
+          <Point name="Highlight RDoc and ruby in comments" />
+          <Point name="Show closing labels in Dart source code" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Auto Import">
+        <contents>
+          <Bag name="XML">
+            <Point name="Show import popup" />
+          </Bag>
+          <Bag name="Java">
+            <Point name="Show import popup for" />
+            <Point name="Insert imports on paste" />
+            <Point name="Add unambiguous imports on the fly" />
+            <Point name="Optimize imports on the fly" />
+            <Point name="Exclude from import and completion" />
+          </Bag>
+          <Bag name="TypeScript / JavaScript">
+            <Point name="Add ES6 imports on code completion" />
+            <Point name="Add TypeScript imports automatically" />
+          </Bag>
+          <Bag name="Kotlin">
+            <Point name="Add unambiguous imports on the fly" />
+            <Point name="Optimize imports on the fly" />
+          </Bag>
+          <Bag name="JSP">
+            <Point name="Add unambiguous imports on the fly" />
+          </Bag>
+          <Bag name="Scala">
+            <Point name="Insert imports on paste" />
+            <Point name="Show imports popup for" />
+            <Point name="Add unambiguous imports on the fly" />
+            <Point name="Optimize imports on the fly" />
+          </Bag>
+          <Bag name="PHP">
+            <Point name="Insert imports on paste" />
+            <Point name="Enable auto-import in file scope" />
+            <Point name="Enable auto-import in namespace scope" />
+            <Point name="Treat symbols from the global space" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Breadcrumbs">
+        <contents>
+          <Point name="Show breadcrumbs" />
+          <Point name="Placement" />
+          <Point name="Languages" />
+          <Point name="Manage colors" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Code Completion">
+        <contents>
+          <Point name="Match case" />
+          <Point name="Automatically insert single suggestions for" />
+          <Point name="Sort suggestions alphabetically" />
+          <Point name="Show suggestions as you type" />
+          <Point name="Show the documentation popup in" />
+          <Bag name="Machine Learning-Assisted Completion">
+            <Point name="Rank completion suggestions based on Machine Learning" />
+          </Bag>
+          <Bag name="JavaScript">
+            <Point name="Only type-based completion" />
+            <Point name="Suggest items with optional chaining for nullable types" />
+            <Point name="Expand method bodies in completion for overrides" />
+            <Point name="Completion of names" />
+            <Point name="Suggest variable and parameter names" />
+            <Point name="Suggest names for class fields" />
+            <Point name="Add type annotations for suggested parameter names" />
+          </Bag>
+          <Bag name="Parameter Info">
+            <Point name="Show Parameter name hints on completion" />
+            <Point name="Show the parameter info popup in" />
+            <Point name="Show full method signatures" />
+          </Bag>
+          <Bag name="SQL">
+            <Point name="JOIN clauses" />
+            <Point name="Use aliases in completion for JOIN" />
+            <Point name="Invert order of operands in auto-generated ON clause" />
+            <Point name="Suggest non-strict foreign keys based on the name matching" />
+            <Point name="Table aliases" />
+            <Point name="Automatically add aliases when completing table names" />
+            <Point name="Suggest alias names in completion after table names" />
+            <Point name="Custom aliases" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Code Folding">
+        <contents>
+          <Point name="Show code folding outline" />
+          <Point name="Fold by default" />
+          <Bag name="General">
+            <Point name="File header" />
+            <Point name="Imports" />
+            <Point name="Documentation comments" />
+            <Point name="Method bodies" />
+            <Point name="Custom folding regions" />
+          </Bag>
+          <Bag name="Android">
+            <Point name="String References" />
+          </Bag>
+          <Bag name="Java">
+            <Point name="One-line methods" />
+            <Point name="Simple property accessors" />
+            <Point name="Inner classes" />
+            <Point name="Anonymous classes" />
+            <Point name="Annotations" />
+            <Point name="&quot;Closures&quot; (anonymous classes implementing one method, before Java 8)" />
+            <Point name="Generic constructor and method parameters" />
+            <Point name="Replace 'var' with inferred type" />
+            <Point name="I18n strings" />
+            <Point name="@SuppressWarnings" />
+            <Point name="End of line comments sequence" />
+            <Point name="Multiline comments" />
+          </Bag>
+          <Bag name="JavaScript">
+            <Point name="One-line functions in JavaScript and TypeScript" />
+            <Point name="Object literals" />
+            <Point name="Array Literals" />
+            <Point name="XML literals" />
+          </Bag>
+          <Bag name="SQL">
+            <Point name="Put underscores inside numeric literals (6-digit or longer)" />
+          </Bag>
+          <Bag name="XML">
+            <Point name="XML tags" />
+            <Point name="HTML 'style' attribute" />
+            <Point name="XML entities" />
+            <Point name="Data URIs" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Console">
+        <contents>
+          <Point name="Use soft wraps in console" />
+          <Point name="Console commands history size" />
+          <Point name="Override console cycle buffer size (1024 KB)" />
+          <Point name="Default Encoding" />
+          <Point name="Fold console lines that contain" />
+          <Point name="Exceptions" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Editor Tabs">
+        <contents>
+          <Bag name="Appearance">
+            <Point name="Tab placement" />
+            <Point name="Show tabs in one row" />
+            <Point name="Hide tabs if there is no space" />
+            <Point name="Use small font for labels" />
+            <Point name="Show file icon" />
+            <Point name="Show file extension" />
+            <Point name="Show directory for non-unique file names" />
+            <Point name="Mark modified (*)" />
+            <Point name="Show full path on mouse hover" />
+            <Point name="Close button position" />
+          </Bag>
+          <Bag name="Tab Order">
+            <Point name="Sort tabs alphabetically" />
+            <Point name="Open new tabs at the end" />
+          </Bag>
+          <Bag name="Closing Policy">
+            <Point name="Tab limit" />
+            <Point name="When Tabs exceed the limit" />
+            <Point name="When the current tab is closed, activate" />
+            <Point name="Open declaration source in the same tab" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Gutter Icons">
+        <contents>
+          <Point name="Show gutter icons" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Postfix Completion">
+        <contents>
+          <Point name="Enable postfix completion" />
+          <Point name="Expand templates with" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Smart Keys">
+        <contents>
+          <Point name="Home moves caret to first non-whitespace character" />
+          <Point name="End on blank line moves caret to indent position" />
+          <Point name="Insert paired brackets (), [], {}, &lt;&gt;" />
+          <Point name="Insert pair quote" />
+          <Point name="Reformat block on typing '}'" />
+          <Point name="Use &quot;CamelHumps&quot; words" />
+          <Point name="Honor &quot;CamelHumps&quot; words settings when selecting on double click" />
+          <Point name="Surround selecting on typing quote or brace" />
+          <Point name="Add multiple carets on double Ctrl with arrow keys" />
+          <Point name="Jump outside closing bracket/quote with Tab when typing" />
+          <Point name="Insert pair %&gt; on Enter in JSP" />
+          <Bag name="Enter">
+            <Point name="Smart indent" />
+            <Point name="Insert pair '}'" />
+            <Point name="Insert documentation comment stub" />
+            <Point name="Unindent on Backspace" />
+            <Point name="Reformat on paste" />
+          </Bag>
+          <Bag name="JavaDoc">
+            <Point name="Automatically insert closing tag in JavaDoc" />
+          </Bag>
+          <Bag name="Kotlin">
+            <Point name="Convert pasted Java code to Kotlin" />
+            <Point name="Don't show Jav to Kotlin conversion dialog on paste" />
+            <Point name="Auto add val keyword to data/inline class constructor parameters" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Smart Keys@@@HTML/CSS">
+        <contents>
+          <Bag name="XML/HTML">
+            <Point name="Insert closing tag on tag completion" />
+            <Point name="Insert required attributes on tab completion" />
+            <Point name="Insert required subtags tag on tag completion" />
+            <Point name="Start attribute on tag completion" />
+            <Point name="Add quotes for attribute value on typing '=' and attribute completion" />
+            <Point name="Auto-close tag on typing '&lt;/'" />
+            <Point name="Simultaneous '&lt;tag&gt;&lt;/tag&gt;' editing" />
+          </Bag>
+          <Bag name="CSS">
+            <Point name="Select Whole CSS identifiers on double click" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Smart Keys@@@JSON">
+        <contents>
+          <Point name="Insert missing comma on Enter" />
+          <Point name="Insert missing comma after matching braces and quotes" />
+          <Point name="Automatically manage commas when pasting JSON fragments" />
+          <Point name="Escape text on paste in string literals" />
+          <Point name="Automatically add quotes to property names when typing ':'" />
+          <Point name="Automatically add whitespace when typing ':' after property names" />
+          <Point name="Automatically move ':' after the property name if typed inside quotes" />
+          <Point name="Automatically move comma after property value or array element if inside quotes" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Smart Keys@@@JavaScript">
+        <contents>
+          <Point name="Start template string interpolation on typing '$'" />
+          <Point name="Escape text on paste in string literals" />
+          <Point name="Convert attributes when pasting HTML to JSX files" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Smart Keys@@@PHP">
+        <contents>
+          <Point name="Enable smart function parameter completion" />
+          <Point name="Select variable name without '$' sign on double click" />
+          <Point name="Remove PHP open/close tags while pasting in PHP context" />
+          <Point name="Escape symbols on paste in string literals" />
+          <Point name="Auto-insert '&lt;?php' tag after typing '&lt;?'" />
+          <Point name="Show additional options when searching for method usages" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Smart Keys@@@Python">
+        <contents>
+          <Point name="Smart indent pasted lines" />
+          <Point name="Insert backslash when pressing Enter inside a statement" />
+          <Point name="Insert 'self' when defining a method" />
+          <Point name="Insert type placeholders in the documentation comment stub" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Smart Keys@@@Ruby">
+        <contents>
+          <Bag name="Ruby">
+            <Point name="Start ruby interpolation in strings on #" />
+            <Point name="Continue comments on Enter" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Smart Keys@@@SQL">
+        <contents>
+          <Point name="Insert string concatenation on Enter" />
+          <Point name="Close code blocks on Enter" />
+          <Point name="Qualify object on code completion and refactoring with" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Smart Keys@@@Scala">
+        <contents>
+          <Point name="Insert pair quotes for multiline string" />
+          <Point name="Upgrade simple string into interpolated after typing '${'" />
+          <Point name="Wrap single expression body with closing brace after typing '{'" />
+          <Point name="Control curly braces based on line indentation" />
+          <Point name="Add braces automatically" />
+          <Point name="Remove braces automatically" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@General@@@Smart Keys@@@YAML">
+        <contents>
+          <Bag name="YAML">
+            <Point name="Auto expand key sequences upon paste" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Inspections">
+        <contents>
+          <Point name="Profile" />
+          <Point name="Description" />
+          <Point name="Severity" />
+          <Point name="Scopes" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Language Injections@@@Advanced">
+        <contents>
+          <Point name="Convert undefined operands to text in concatenations" />
+          <Point name="Add @Language annotation or comment if needed" />
+          <Bag name="Annotation Classes">
+            <Point name="Language annotation Classes" />
+            <Point name="Pattern annotation Classes" />
+            <Point name="Substitution annotation Classes" />
+          </Bag>
+          <Bag name="Runtime Pattern Validation">
+            <Point name="No runtime instrumentation" />
+            <Point name="Instrumentation with assertions" />
+            <Point name="Instrumentation with IllegalArgumentException" />
+          </Bag>
+          <Bag name="Performance">
+            <Point name="Do not analyze anything (fast)" />
+            <Point name="Analyze references" />
+            <Point name="Look for variable assignments" />
+            <Point name="Use dataflow analysis (slow)" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Live Templates">
+        <contents>
+          <Point name="By default expand with" />
+          <Point name="Abbreviation" />
+          <Point name="Description" />
+          <Point name="Template Text" />
+          <Point name="Applicable in" />
+          <Point name="Change" />
+          <Point name="Edit Variables" />
+          <Bag name="Options">
+            <Point name="Expand with" />
+            <Point name="Reformat according to style" />
+            <Point name="Use static import if possible" />
+            <Point name="Shorten FQ names" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Proofreading">
+        <contents>
+          <Point name="Languages" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Proofreading@@@Grammar">
+        <contents>
+          <Point name="Scope" />
+          <Point name="Rules" />
+          <Point name="Exceptions" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Proofreading@@@Spelling">
+        <contents>
+          <Point name="Use single dictionary for saving words" />
+          <Point name="Custom dictionaries (plain text word lists)" />
+          <Point name="Accepted words" />
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Reader Mode">
+        <contents>
+          <Point name="Enable Reader mode" />
+          <Bag name="Show in Reader mode">
+            <Point name="Rendered documentation comments" />
+            <Point name="Editor breadcrumbs" />
+            <Point name="Error and warning highlighting, inspection widget" />
+            <Point name="Font ligatures" />
+            <Point name="Increased line spacing" />
+            <Point name="Code vision hints for usages, inheritors, and related problems" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@TODO">
+        <contents>
+          <Point name="Treat indented text on the following lines as part of the same TODO" />
+          <Bag name="Patterns">
+            <Point name="Icons" />
+            <Point name="Case Sensitive" />
+            <Point name="Pattern" />
+          </Bag>
+          <Bag name="Filters">
+            <Point name="Name" />
+            <Point name="Pattern" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Editor@@@Vim Emulation">
+        <contents>
+          <Bag name="Shortcut Conflicts for Active Keymap">
+            <Point name="Shortcut" />
+            <Point name="IDE Action" />
+            <Point name="Handler" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Android (Experimental)">
+        <contents>
+          <Bag name="Gradle">
+            <Point name="Only sync the active variant" />
+            <Point name="Do not build Gradle task list during Gradle sync" />
+          </Bag>
+          <Bag name="Editor">
+            <Point name="Layout Editor quality setting" />
+            <Point name="Use new Layout Rendering Engine" />
+          </Bag>
+          <Bag name="Layout Inspector">
+            <Point name="Use new Layout Rendering Engine" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@JavaFX">
+        <contents>
+          <Point name="Path to SceneBuilder" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@JavaScript">
+        <contents>
+          <Point name="JavaScript language version" />
+          <Point name="Configure code completion settings" />
+          <Point name="Flow package or executable" />
+          <Point name="Use Flow server for" />
+          <Point name="Save all modified files automatically" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@JavaScript@@@Bower">
+        <contents>
+          <Point name="Node interpreter" />
+          <Point name="Bower package" />
+          <Point name="bower.json" />
+          <Point name="Dependencies" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Kotlin">
+        <contents>
+          <Point name="Update channel" />
+          <Point name="Check again" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Markdown">
+        <contents>
+          <Point name="Default layout" />
+          <Point name="Auto-scroll preview" />
+          <Point name="Editor and Preview Panel Layout" />
+          <Point name="Preview browser" />
+          <Point name="Grayscale" />
+          <Point name="PlantUML framework isn't installed" />
+          <Point name="Disable automatic language injection in code fences" />
+          <Point name="Hide errors in code fences" />
+          <Bag name="Custom CSS">
+            <Point name="Load from URI" />
+            <Point name="Add CSS rules" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Node.js and NPM">
+        <contents>
+          <Point name="Node interpreter" />
+          <Point name="Version" />
+          <Point name="Coding assistance for Node.js" />
+          <Point name="Package manager" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Reactive Streams">
+        <contents>
+          <Bag name="Debugger">
+            <Point name="Enable Reactor Debug mode. This mode provides stack frames customization" />
+            <Point name="Initialization method that runs at application startup" />
+            <Point name="Show notification first debugging in project" />
+          </Bag>
+          <Bag name="Inspections configuration">
+            <Point name="Use advanced analysis to detect non-blocking scopes" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@SQL Dialects">
+        <contents>
+          <Point name="Global SQL Dialect" />
+          <Point name="Project SQL Dialect" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@SQL Resolution Scopes">
+        <contents>
+          <Point name="Project mapping" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Schemas and DTDs">
+        <contents>
+          <Point name="Ignored schemas and DTDs" />
+          <Bag name="External schemas and DTDs">
+            <Point name="URI" />
+            <Point name="Location" />
+            <Point name="Project" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Schemas and DTDs@@@Default XML Schemas">
+        <contents>
+          <Point name="Default HTML language level" />
+          <Point name="XML Schema version" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Schemas and DTDs@@@Remote JSON Schemas">
+        <contents>
+          <Point name="Allow downloading JSON Schemas from remote sources" />
+          <Point name="Use schemastore.org JSON Schema catalog" />
+          <Point name="Always download the most recent version of schemas" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Schemas and DTDs@@@XML Catalog">
+        <contents>
+          <Point name="Catalog property file" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Spring">
+        <contents>
+          <Bag name="Common">
+            <Point name="Allow to auto-configure application contexts" />
+          </Bag>
+          <Bag name="Configuration Files Editor">
+            <Point name="Show Profiles panel" />
+            <Point name="Show Multiple Contexts panel" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Spring@@@Spring Boot">
+        <contents>
+          <Bag name="Configuration Metadata Files">
+            <Point name="Show notification panel" />
+          </Bag>
+          <Bag name="Initializr">
+            <Point name="Create Run Configuration automatically" />
+            <Point name="Reformat Code" />
+          </Bag>
+          <Bag name="Run Configuration: Endpoints Tabs">
+            <Point name="Health.Refresh status every" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Style Sheets@@@Dialects">
+        <contents>
+          <Point name="Project CSS Dialect" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Style Sheets@@@Stylelint">
+        <contents>
+          <Point name="Enable" />
+          <Point name="Node interpreter" />
+          <Point name="Stylelint package" />
+          <Point name="Process JS files" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@Template Data Languages">
+        <contents>
+          <Point name="Project Language" />
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@TypeScript">
+        <contents>
+          <Point name="Node interpreter" />
+          <Point name="TypeScript" />
+          <Bag name="TypeScript Language Service">
+            <Point name="Also for projects without tsconfig.json" />
+            <Point name="Recompile on changes" />
+            <Point name="Compile scope" />
+            <Point name="Options" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Languages &amp; Frameworks@@@XSLT">
+        <contents>
+          <Point name="Show Associated Files in Project View" />
+        </contents>
+      </entry>
+      <entry configId="Plugins">
+        <contents>
+          <Point name="Marketplace" />
+          <Point name="Installed" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Database">
+        <contents>
+          <Bag name="Navigation">
+            <Point name="Prefer database view over DDL editor" />
+            <Point name="Prefer data editor over DDL editor" />
+          </Bag>
+          <Bag name="Query Execution">
+            <Point name="When inside statement execute" />
+            <Point name="otherwise execute" />
+            <Point name="for selection execute" />
+            <Point name="Open results in new tab" />
+            <Point name="Show output results in editor" />
+            <Point name="Show error notifications in editor" />
+            <Point name="Review parameters before execution" />
+            <Point name="Always show console toolbar in editor" />
+            <Point name="Track databases/schemas creation and deletion" />
+            <Point name="Show warning before running potentially unsafe queries" />
+            <Point name="Create title for results from comment before query" />
+            <Point name="Treat text as title filter" />
+          </Bag>
+          <Bag name="Other">
+            <Point name="Show first N rows documentation" />
+            <Point name="Always show qualified names for database objects" />
+            <Point name="Confirm cancellation for dialogs that modify schema" />
+            <Point name="Skip database refactoring preview" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Database@@@CSV Formats">
+        <contents>
+          <Point name="Formats" />
+          <Point name="Value separator" />
+          <Point name="Row separator" />
+          <Point name="Null value text" />
+          <Point name="Add row prefix/suffix" />
+          <Point name="Quotation" />
+          <Point name="Quote values" />
+          <Point name="Trim whitespaces" />
+          <Point name="First row is header" />
+          <Point name="First column is header" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Database@@@Data Views">
+        <contents>
+          <Point name="Limit page size to" />
+          <Point name="Result set prefetch size" />
+          <Point name="Filter history size" />
+          <Point name="Max LOB length (bytes)" />
+          <Bag name="Data modification">
+            <Point name="Submit changes immediately" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Database@@@User Parameters">
+        <contents>
+          <Point name="Enable in query consoles and SQL files" />
+          <Point name="Enable in string literals with SQL injection" />
+          <Point name="Substitute inside SQL strings" />
+          <Point name="Parameter patterns" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Diagrams">
+        <contents>
+          <Point name="Default Layout" />
+          <Point name="Default Scope" />
+          <Point name="Fit content after layout" />
+          <Point name="Do relayout when new elements were added" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Diff &amp; Merge">
+        <contents>
+          <Bag name="Diff">
+            <Point name="Context lines" />
+            <Point name="Go to the next file after reaching last change" />
+          </Bag>
+          <Bag name="Merge">
+            <Point name="Automatically apply non-conflicting changes" />
+            <Point name="Highlight modified lines in gutter" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Diff &amp; Merge@@@External Diff Tools">
+        <contents>
+          <Point name="Enable external diff tool" />
+          <Point name="Path to executable" />
+          <Point name="Parameters" />
+          <Point name="Use by default" />
+          <Point name="Enable external merge tool" />
+          <Point name="Path to executable" />
+          <Point name="Parameters" />
+          <Point name="Trust process exist code" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Idea Setting Explorer">
+        <contents>
+          <Point name="Refresh on startup" />
+          <Point name="Set separator's position if it doesn't display correctly" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Python Integrated Tools">
+        <contents>
+          <Bag name="Packaging">
+            <Point name="Package requirements file" />
+          </Bag>
+          <Bag name="Pipenv">
+            <Point name="Path to Pipenv executable" />
+          </Bag>
+          <Bag name="Testing">
+            <Point name="Default test runner" />
+          </Bag>
+          <Bag name="Docstrings">
+            <Point name="Docstring format" />
+            <Point name="Analyze Python code in docstrings" />
+            <Point name="Render external documentation for stdlib" />
+          </Bag>
+          <Bag name="ReStructuredText">
+            <Point name="Sphinx working directory" />
+            <Point name="Treat .txt files as reStructuredText" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Python Scientific">
+        <contents>
+          <Point name="Show plots in tool window" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@SSh Terminal">
+        <contents>
+          <Point name="Connection settings" />
+          <Point name="Default encoding" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Server Certificates">
+        <contents>
+          <Point name="Accept non-trusted certificates automatically" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Settings Repository">
+        <contents>
+          <Point name="Repository" />
+          <Point name="Auto Sync" />
+          <Point name="Include hostname into commit message" />
+          <Point name="Read-only sources" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Shared Indexes">
+        <contents>
+          <Point name="JDK indexes" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Tasks">
+        <contents>
+          <Point name="Changelist name format" />
+          <Point name="Feature branch name format" />
+          <Point name="Lowercased" />
+          <Point name="Replace spaces with" />
+          <Point name="Task history length" />
+          <Point name="Connection timeout" />
+          <Point name="Always display task combo in toolbar" />
+          <Point name="Save context on commit" />
+          <Bag name="Issue cache">
+            <Point name="Enable cache" />
+            <Point name="Update" />
+            <Point name="Issue every" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Tasks@@@Time Tracking">
+        <contents>
+          <Point name="Enable Time Tracking" />
+          <Bag name="Time Tracking Settings">
+            <Point name="Suspend delay" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Terminal">
+        <contents>
+          <Bag name="Project settings">
+            <Point name="Start directory" />
+            <Point name="Environment Variables" />
+          </Bag>
+          <Bag name="Application settings">
+            <Point name="Shell path" />
+            <Point name="Tab name" />
+            <Point name="Audible bell" />
+            <Point name="Close session when it ends" />
+            <Point name="Mouse reporting" />
+            <Point name="Copy to clipboard on selection" />
+            <Point name="Paste on middle mouse button click" />
+            <Point name="Override IDE shortcuts" />
+            <Point name="Shell integration" />
+            <Point name="Highlight hyperlinks" />
+            <Point name="Run Commands using IDE" />
+            <Point name="Activate virtualenv" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Vagrant">
+        <contents>
+          <Point name="Vagrant executable" />
+          <Point name="Instance folder" />
+          <Point name="Provider" />
+          <Point name="Environment variable" />
+          <Point name="Boxes" />
+          <Point name="Plugins" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Web Browsers">
+        <contents>
+          <Point name="Default Browser" />
+          <Bag name="Show browser popup in the editor">
+            <Point name="For HTML files" />
+            <Point name="For XML files" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Tools@@@Web Services">
+        <contents>
+          <Point name="External engines" />
+          <Point name="Server name" />
+          <Point name="Server port" />
+          <Point name="Prefix path for web services URL" />
+          <Point name="Maximum VM heap size when launching tools (Mb)" />
+        </contents>
+      </entry>
+      <entry configId="Tools@@@XPath Viewer">
+        <contents>
+          <Bag name="Settings">
+            <Point name="Scroll first hit into visible area" />
+            <Point name="Use node at cursor as context node" />
+            <Point name="Highlight only start tag instead of whole tag content" />
+            <Point name="Add error stripe markers for each result" />
+            <Point name="Show actions in Toolbar" />
+            <Point name="Show actions in Main Menu" />
+          </Bag>
+          <Bag name="Colors">
+            <Point name="Highlight color" />
+            <Point name="Context node color" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Version Control">
+        <contents>
+          <Point name="Directory" />
+          <Point name="VCS" />
+          <Point name="Limit history to" />
+          <Point name="Show directories with changed descendants" />
+          <Point name="Show changed in last" />
+        </contents>
+      </entry>
+      <entry configId="Version Control@@@Background">
+        <contents>
+          <Bag name="Background Operations">
+            <Point name="Perform update from VCS in background" />
+            <Point name="Perform commit to VCS in background" />
+            <Point name="Perform checkout from VCS in background" />
+            <Point name="Perform Edit/Checkout in background" />
+            <Point name="Perform Add/Remove in background" />
+            <Point name="Perform revert in background" />
+          </Bag>
+          <Bag name="&quot;Changed on server&quot; conflicts">
+            <Point name="Check every" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Version Control@@@Changelists">
+        <contents>
+          <Point name="Track changed blocks in text files separately" />
+          <Point name="Show dialog on attempt to edit file from non-active changelist" />
+          <Point name="Highlight files with changelist conflicts" />
+          <Point name="Highlight files from non-active changelists" />
+          <Point name="Files with ignored conflicts" />
+          <Point name="Clear" />
+        </contents>
+      </entry>
+      <entry configId="Version Control@@@Commit">
+        <contents>
+          <Point name="use non-modal commit interface" />
+          <Point name="Clear initial commit message" />
+          <Point name="Force non-empty commit comments" />
+          <Point name="Show unversioned files" />
+          <Point name="Suggest to move uncommitted changes to another changelist" />
+          <Point name="Create changelist on failed commit" />
+          <Bag name="Commit message inspections">
+            <Point name="Blank line between subject and body" />
+            <Point name="Limit body line" />
+            <Point name="Limit subject line" />
+            <Point name="Spelling" />
+          </Bag>
+          <Bag name="Before Commit">
+            <Point name="Reformat code" />
+            <Point name="Rearrange code" />
+            <Point name="Optimize imports" />
+            <Point name="Perform code analysis" />
+            <Point name="Check TODO (Show All)" />
+            <Point name="Cleanup" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Version Control@@@Confirmation">
+        <contents>
+          <Point name="Show &quot;Clear Read-only Status&quot; Dialog" />
+          <Point name="Restore workspace on branch switching" />
+          <Point name="Show patch in Explorer after creation" />
+          <Bag name="When files are created">
+            <Point name="Show options before adding to version control" />
+            <Point name="Add silently" />
+            <Point name="Do not add" />
+          </Bag>
+          <Bag name="When empty changelist becomes inactive">
+            <Point name="Show options before removing" />
+            <Point name="Remove silently" />
+            <Point name="Do not remove" />
+          </Bag>
+          <Bag name="When files are deleted">
+            <Point name="Show options before removing from version control" />
+            <Point name="Remove silently" />
+            <Point name="Do not remove" />
+          </Bag>
+          <Bag name="Display options dialog when these commands are invoked">
+            <Point name="Checkout" />
+            <Point name="Update" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Version Control@@@Git">
+        <contents>
+          <Point name="Path to Git executable" />
+          <Point name="Test" />
+          <Point name="Set this path only for current project" />
+          <Point name="Execute branch operations on all roots" />
+          <Point name="Commit automatically on cherry-pick" />
+          <Point name="Add the 'cherry-picked from &lt;hash&gt;' suffix when picking commits pushed to protected branches" />
+          <Point name="Warn if CRLF line separators are about to be committed" />
+          <Point name="Warn when committing in detached HEAD or during rebase" />
+          <Point name="Explicitly check for incoming commits on remotes" />
+          <Point name="Update method" />
+          <Point name="Clean working tree using" />
+          <Point name="Auto-update if push of the current branch was rejected" />
+          <Point name="Show Push dialog for Commit and Push" />
+          <Point name="Show Push dialog only when committing to protected branches" />
+          <Point name="Protected branches" />
+          <Point name="Use credential helper" />
+          <Point name="Filter Update Project information by paths" />
+        </contents>
+      </entry>
+      <entry configId="Version Control@@@GitHub">
+        <contents>
+          <Point name="Add account" />
+          <Point name="Clone git repositories using ssh" />
+          <Point name="Connection timeout" />
+        </contents>
+      </entry>
+      <entry configId="Version Control@@@Mercurial">
+        <contents>
+          <Point name="Path to Mercurial executable" />
+          <Point name="Test" />
+          <Point name="Execute branch operations on all roots" />
+          <Point name="Check for incoming and outgoing changesets" />
+          <Point name="Ignore whitespace differences in annotations" />
+        </contents>
+      </entry>
+      <entry configId="Version Control@@@Perforce">
+        <contents>
+          <Point name="Perforce is online" />
+          <Point name="Switch to offline mode automatically if Perforce is unavailable" />
+          <Bag name="Config Settings">
+            <Point name="Use P4CONFIG or default connection" />
+            <Point name="Use connection parameters" />
+            <Point name="Dump Perforce Commands to" />
+            <Point name="Use login authentication" />
+            <Point name="Test Connection" />
+            <Point name="Path to P4 executable" />
+            <Point name="Path to P4V executable" />
+            <Point name="Show branching history (for &quot;File History&quot; action, &quot;Compare With...&quot; list)" />
+            <Point name="Show integrated changelists in committed changes" />
+            <Point name="Server timeout" />
+            <Point name="Enable Perforce Jobs support" />
+          </Bag>
+        </contents>
+      </entry>
+      <entry configId="Version Control@@@Subversion">
+        <contents>
+          <Point name="Enable interactive mode" />
+          <Point name="Use custom configuration directory" />
+        </contents>
+      </entry>
+      <entry configId="Version Control@@@Subversion@@@Network">
+        <contents>
+          <Point name="Use IDEA general proxy settings as default for Subversion" />
+          <Point name="HTTP timeout" />
+          <Point name="SSH connection timeout" />
+          <Point name="SSH read timeout" />
+          <Point name="SSL protocols" />
+          <Point name="Edit Network Options" />
+        </contents>
+      </entry>
+      <entry configId="Version Control@@@Subversion@@@Presentation">
+        <contents>
+          <Point name="Check svn:mergeinfo in target subtree when preparing for merge" />
+          <Point name="Maximum number of revisions to look back in annotations" />
+          <Point name="Show merge source in history and annotations" />
+          <Point name="Ignore whitespace differences in annotations" />
+        </contents>
+      </entry>
+      <entry configId="Version Control@@@Subversion@@@SSH">
+        <contents>
+          <Point name="SSH executable" />
+          <Point name="User name" />
+          <Point name="Port" />
+          <Point name="Password" />
+          <Point name="Private key" />
+          <Point name="Path" />
+          <Point name="Subversion config" />
+          <Point name="SSH tunnel" />
+          <Point name="Update" />
+          <Point name="SVN_SSH" />
+        </contents>
+      </entry>
+    </contentMap>
+  </component>
+</application>
