@@ -110,6 +110,10 @@
           <option name="url" value="git://jenkins-sf.od.ab-soft.net/JiraFlowTracker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.ringcentral.com/softphone/spartanSoftphone.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Idea_workspace" />
