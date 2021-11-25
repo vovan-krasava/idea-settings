@@ -1,5 +1,7 @@
 <application>
   <component name="CsvEditorSettings">
     <option name="CURRENT_PLUGIN_VERSION" value="2.18.1" />
+    <option name="TABLE_AUTO_COLUMN_WIDTH_ON_OPEN" value="true" />
+    <option name="TABLE_HEADER_ROW_FIXED" value="true" />
   </component>
 </application>
