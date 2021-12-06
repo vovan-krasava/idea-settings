@@ -1,0 +1,12 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:/idea-workspace" />
+        <option value="D:/!!!!/GIT_repositories" />
+        <option value="$USER_HOME$/Idea_workspace" />
+        <option value="$USER_HOME$/IdeaProjects" />
+      </list>
+    </option>
+  </component>
+</application>
