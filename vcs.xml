@@ -194,9 +194,21 @@
           <option name="url" value="git@git.ringcentral.com:AUT.Projects/Spartan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:chocolatey/choco-quickstart-scripts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chocolatey/choco-quickstart-scripts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chocolatey/choco-wiki.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Idea_workspace" />
+    <option name="cloneParentDir" value="C:\Users\vladimir.kolodeyev\Idea_workspace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
