@@ -24,7 +24,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://git.ringcentral.com" />
-          <option name="userName" value="vladimir.kolodeyev" />
+          <option name="userName" value="vladimir.kolodeyev@ab-soft.net" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://git.ringcentral.com/AUT.Common/Environment.git" />
@@ -192,22 +192,6 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="git@git.ringcentral.com:AUT.Projects/Spartan.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@git.ringcentral.com:AUT.Tools/RMI.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@git.ringcentral.com:AUT.Common/SpartanDriver.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@git.ringcentral.com:softphone/spartanSoftphone.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@git.ringcentral.com:AUT.Common/SeparateAccountScenarios_2.0.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
