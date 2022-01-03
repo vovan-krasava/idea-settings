@@ -218,9 +218,17 @@
           <option name="url" value="git@github.com:vovan-krasava/idea-settings.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.ringcentral.com:AUT.Common/SpartanDriver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.ringcentral.com:AUT.Common/Account-Collector.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\vladimir.kolodeyev\Idea_workspace" />
+    <option name="cloneParentDir" value="$USER_HOME$/Idea_workspace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
@@ -236,5 +244,6 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/idea-workspace/Git_Develop" />
+    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
   </component>
 </application>
