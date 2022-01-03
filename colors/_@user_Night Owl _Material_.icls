@@ -4,7 +4,7 @@
     <property name="created">2022-01-01T22:34:49</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-01-03T08:07:18</property>
+    <property name="modified">2022-01-03T08:54:40</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -29,7 +29,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="9ccc65" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
-    <option name="ActionButton.hoverBackground" value="84d8150" />
+    <option name="ActionButton.hoverBackground" value="4d8150" />
     <option name="ActionButton.iconTextForeground" value="5f7e97" />
     <option name="ActionButton.pressedBackground" value="84d81" />
     <option name="Bookmark.Mnemonic.iconBackground" value="4373c2" />
