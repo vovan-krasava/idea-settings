@@ -4,7 +4,7 @@
     <property name="created">2021-12-08T04:04:43</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2022-02-16T03:58:54</property>
+    <property name="modified">2022-02-22T16:12:00</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3592,8 +3592,8 @@
         <option name="FOREGROUND" value="b4c2f0" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="" />
-    <option name="Scala Type parameter" baseAttributes="" />
+    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
