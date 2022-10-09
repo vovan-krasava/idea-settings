@@ -2,22 +2,11 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern="**spring-configuration-metadata.json" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <mapping pattern="bootstrap-**.properties" type="Properties" />
-      <mapping pattern="application-**.properties" type="Properties" />
-      <mapping pattern="application.properties" type="Properties" />
-      <mapping pattern="bootstrap.properties" type="Properties" />
       <mapping ext="db" type="SQL" />
-      <mapping pattern="bootstrap-**.y**ml" type="YAML" />
-      <mapping pattern="application-**.y**ml" type="YAML" />
-      <mapping pattern="bootstrap.yaml" type="YAML" />
-      <mapping pattern="bootstrap.yml" type="YAML" />
-      <mapping pattern="application.yml" type="YAML" />
-      <mapping pattern="application.yaml" type="YAML" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
