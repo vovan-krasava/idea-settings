@@ -10,5 +10,6 @@
     <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
     <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="RENAME_ACCESSORS" value="false" />
   </component>
 </application>
