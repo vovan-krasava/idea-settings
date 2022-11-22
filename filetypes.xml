@@ -6,7 +6,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="idx" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="Properties" />
       <mapping ext="db" type="SQL" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
@@ -16,6 +16,7 @@
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="ini" approved="true" type="Ini" />
+      <removed_mapping ext="ini" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <removed_mapping pattern="application-**.properties" approved="true" type="Properties" />
