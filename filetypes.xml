@@ -2,10 +2,13 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern=".env.*" type="Env File" />
-      <mapping ext="env" type="Env File" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="idx" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="Properties" />
       <mapping ext="db" type="SQL" />
+      <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
@@ -13,12 +16,22 @@
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="ini" approved="true" type="Ini" />
+      <removed_mapping ext="ini" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
+      <removed_mapping pattern="application-**.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="application-**.y**ml" approved="true" type="YAML" />
+      <removed_mapping pattern="application.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="application.yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="application.yml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap-**.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="bootstrap-**.y**ml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
       <mapping ext="db" type="SQL" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="env" type="Env File" />
+      <mapping pattern=".env.*" type="Env File" />
     </extensionMap>
   </component>
 </application>
